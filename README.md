@@ -1,6 +1,12 @@
-Weather App 
+Weather App! 
 
-Technologies| JSX | CSS | React.js |
+Technologies: JSX | CSS | React.js |
+
+To start the app : Open your terminal and type "npm start" 
+
+
+
+
 
 
 
