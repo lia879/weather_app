@@ -1,10 +1,12 @@
 Weather App! 
 
-Technologies: JSX | CSS | React.js 
+Technologies: JSX | CSS | React.js | weather_app API keys 
 
-To start the app : Open your terminal and type "npm start" 
+link: Open http://localhost:3000 to view it in the browser.
 
-Open http://localhost:3000 to view it in the browser.
+Type in any cities or countries and the weather API will fetch the current weather location. 
+
+
 
 ![weatherapp](https://user-images.githubusercontent.com/54521457/89347257-082bf080-d670-11ea-9516-43dcd937df0e.png)
 
