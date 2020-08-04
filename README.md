@@ -4,6 +4,9 @@ Technologies: JSX | CSS | React.js |
 
 To start the app : Open your terminal and type "npm start" 
 
+![weatherapp](https://user-images.githubusercontent.com/54521457/89347257-082bf080-d670-11ea-9516-43dcd937df0e.png)
+
+
 
 
 
