@@ -2,7 +2,7 @@ Weather App!
 
 Technologies: JSX | CSS | React.js | weather_app API keys 
 
-link: Open http://localhost:3000 to view it in the browser.
+
 
 Type in any cities or countries and the weather API will fetch the current weather location. 
 
